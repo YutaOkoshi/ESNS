@@ -1,5 +1,7 @@
-import Header from '../components/Header'
-import CommunityGroups from '../components/CommunityGroups'
+'use client'
+
+import Header from '../../components/Header'
+import CommunityGroups from '../../components/CommunityGroups'
 
 export default function GroupsPage() {
   return (

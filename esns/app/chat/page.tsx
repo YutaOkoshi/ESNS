@@ -1,5 +1,6 @@
-import Header from '../components/Header'
-import ChatSection from '../components/ChatSection'
+'use client'
+import Header from '../../components/Header'
+import ChatSection from '../../components/ChatSection'
 
 export default function ChatPage() {
   return (

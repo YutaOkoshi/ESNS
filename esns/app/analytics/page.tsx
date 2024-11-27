@@ -1,5 +1,7 @@
-import Header from '../components/Header'
-import Analytics from '../components/Analytics'
+'use client'
+
+import Header from '../../components/Header'
+import Analytics from '../../components/Analytics'
 
 export default function AnalyticsPage() {
   return (
