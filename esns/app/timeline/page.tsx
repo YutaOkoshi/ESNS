@@ -1,5 +1,5 @@
-import Header from '../components/Header'
-import Timeline from '../components/Timeline'
+import Header from '../../components/Header'
+import Timeline from '../../components/Timeline'
 
 export default function TimelinePage() {
   return (
