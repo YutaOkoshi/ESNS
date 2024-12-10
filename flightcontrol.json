@@ -32,7 +32,7 @@
           "minInstances": 1,
           "maxInstances": 1,
           "versionHistoryCount": 10,
-          "basePath": "./.esns",
+          "basePath": "./esns",
           "installCommand": "npm i",
           "buildCommand": "npm run build",
           "startCommand": "npm run start",
