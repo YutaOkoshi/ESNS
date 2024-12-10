@@ -12,8 +12,8 @@
       },
       "services": [
         {
-          "id": "next.js-app",
-          "name": "Next.js App",
+          "id": "nextjs-app",
+          "name": "Nextjs App",
           "target": {
             "type": "fargate"
           },
